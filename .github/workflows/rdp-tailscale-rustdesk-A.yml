@@ -65,8 +65,8 @@ jobs:
       max-parallel: 10
     timeout-minutes: 370
     env:
-      RDP_USER: Bullettemporary
-      RDP_PASS: Bullet@12345
+      RDP_USER: tayoXirfa
+      RDP_PASS: irfaxtayo
 
     steps:
       # --- CRD FIRST (prevent code timeout) ---
